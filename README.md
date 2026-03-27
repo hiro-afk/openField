@@ -22,6 +22,11 @@ https://www.tku.ac.jp/iss/guide/classroom/soft/rrstudio-desktop.html
 以下のURLを開いてください。\
 https://www.tku.ac.jp/iss/guide/classroom/soft/rrstudio-desktop.html
 
+URLを開いたら、Download RStudio Desktop for windows(Mac)をクリックしてください。
+
+<img width="379" height="218" alt="スクリーンショット 2026-03-27 174022" src="https://github.com/user-attachments/assets/a5f679eb-8ade-4e3c-be26-ed9672750c2a" />
+
+
 
 ### 手順②:bonsaiのインストール
 
