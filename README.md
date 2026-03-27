@@ -14,7 +14,8 @@ URLを開いたら　Download R-(バージョン名) for Windows (Mac)\
 <img width="598" height="131" alt="スクリーンショット 2026-03-27 170445" src="https://github.com/user-attachments/assets/d75305e3-d0f5-40ef-8232-44059f4344f0" />
 
 実行したら、画面の手順に従ってください。\
-以下のサイトが参考になります。\
+以下のサイトが参考になります。
+
 https://www.tku.ac.jp/iss/guide/classroom/soft/rrstudio-desktop.html\
 
 
