@@ -29,7 +29,12 @@ URLを開いたら、以下の画像にあるDownload RStudio Desktop for window
 起動したら画面に従ってください。
 
 ### 手順②:bonsaiのインストール
-bonsaiは、動画内のマウスをトラッキングし、その中心座標をピクセル単位で出力するためのアプリケーションです。
+bonsaiは、動画内のマウスをトラッキングし、その中心座標をピクセル単位で出力するためのアプリケーションです。\
+bonsaiは以下のURLからダウンロードしてください。
+
+https://bonsai-rx.org/docs/articles/installation.html
+
+ただし、bonsaiはwindowsのみでしか動かないため、MacやLinuxを使っている人は、ラボのパソコンで使用してください。
 
 ### 手順③:openfield.Rおよびopenfield.bonsaiをダウンロード
 
