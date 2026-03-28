@@ -36,10 +36,16 @@ https://bonsai-rx.org/docs/articles/installation.html
 
 ただし、bonsaiはwindowsのみでしか動かないため、MacやLinuxを使っている人は、ラボのパソコンで使用してください。
 
+
 ### 手順③:bonsaiの初期設定
 bonsaiのインストールが完了したら、bonsaiの初期設定を行います。\
 bonsaiを開くと以下の画面になると思います。(recentには何も表示されていないと思います)\
 <img width="960" height="560" alt="スクリーンショット 2026-03-28 222050" src="https://github.com/user-attachments/assets/08980d88-ff8a-434d-b1c0-94ce081c545a" />
+
+開いたら、以下のように赤で示した箇所をクリックしてください。\
+<img width="175" height="225" alt="スクリーンショット 2026-03-28 22269" src="https://github.com/user-attachments/assets/f667cd83-571a-4abb-82c2-c565bdef9774" />
+
+
 
 
 
