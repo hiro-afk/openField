@@ -37,7 +37,9 @@ https://bonsai-rx.org/docs/articles/installation.html
 ただし、bonsaiはwindowsのみでしか動かないため、MacやLinuxを使っている人は、ラボのパソコンで使用してください。
 
 ### 手順③:openfield.Rおよびopenfield.bonsaiをダウンロード
-次に、openfield.Rとopenfield.bonsaiをダウンロードしてください。
+次に、openfield.Rとopenfield.bonsaiをダウンロードしてください。\
+これら二つのプログラムはこのページからダウンロードしてください。\
+ダウンロードするためには、これら二つのファイルをクリックしてダウンロードをクリックしてください。
 
 ### 手順④:フォルダ構造の整理
 
