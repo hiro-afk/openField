@@ -36,14 +36,20 @@ https://bonsai-rx.org/docs/articles/installation.html
 
 ただし、bonsaiはwindowsのみでしか動かないため、MacやLinuxを使っている人は、ラボのパソコンで使用してください。
 
-### 手順③:openfield.Rおよびopenfield.bonsaiをダウンロード
+### 手順③:bonsaiの初期設定
+bonsaiのインストールが完了したら、bonsaiの初期設定を行います。\
+bonsaiを開くと以下の画面になると思います。\
+
+### 手順④:openfield.Rおよびopenfield.bonsaiをダウンロード
 次に、openfield.Rとopenfield.bonsaiをダウンロードしてください。\
 これら二つのプログラムはこのページからダウンロードしてください。\
 ダウンロードするためには、これら二つのファイルをクリックしてダウンロードをクリックしてください。
 
-### 手順④:フォルダ構造の整理
-
 ### 手順⑤:動画データの取得
-以下のURLから動画データを取得してください。
+上記のダウンロードが完了したら、以下のURLから動画データを取得してください。
 
 https://1drv.ms/f/c/e7c121b75c232fa5/IgA6dUCz6y6uQYxBbwza2QdpAekgxVjvcEVX6nDEsDc36c0?e=kIWuzm
+
+### 手順⑥:実行手順
+まず初めに動画からマウスをトラッキングしてマウスの中心座標を求めます。この解析にはopenfield.bonsaiを使用します。
+
