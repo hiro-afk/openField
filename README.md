@@ -34,7 +34,8 @@ bonsaiは以下のURLからダウンロードしてください。
 
 https://bonsai-rx.org/docs/articles/installation.html
 
-ただし、bonsaiはwindowsのみでしか動かないため、MacやLinuxを使っている人は、ラボのパソコンで使用してください。
+ただし、bonsaiはwindowsのみでしか動かないため、MacやLinuxを使っている人は、ラボのパソコンで使用してください。\
+また、最新バージョン(29.0)はインストールに失敗するかもしれません。そしたら1個前のバージョンを使ってください。
 
 
 ### 手順③:bonsaiの初期設定
