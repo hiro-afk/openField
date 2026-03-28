@@ -43,4 +43,4 @@ https://bonsai-rx.org/docs/articles/installation.html
 ### 手順⑤:動画データの取得
 以下のURLから動画データを取得してください。
 
-https://1drv.ms/f/c/e7c121b75c232fa5/IgDJk2RdeU3xRIAAwGyvNP8oAexa4Et4_-N7fcLiUFpDLP8?e=LW3VA6
+https://1drv.ms/f/c/e7c121b75c232fa5/IgA6dUCz6y6uQYxBbwza2QdpAekgxVjvcEVX6nDEsDc36c0?e=kIWuzm
