@@ -65,7 +65,27 @@ https://1drv.ms/f/c/e7c121b75c232fa5/IgA6dUCz6y6uQYxBbwza2QdpAekgxVjvcEVX6nDEsDc
 
 
 ### 手順⑥:実行手順
-まず初めに動画からマウスをトラッキングしてマウスの中心座標を求めます。この解析にはopenfield.bonsaiを使用します。
+まず初めに動画からマウスをトラッキングしてマウスの中心座標を求めます。この解析にはopenfield.bonsaiを使用します。\
+openfield.bonsaiを開くと以下の画像のようになります。
+<img width="960" height="561" alt="スクリーンショット 2026-04-15 180033" src="https://github.com/user-attachments/assets/c5fde6a3-5a98-4b4c-8623-187db5a1fc88" />
+
+#### <解析方法>
+①.FileCaptureノードをダブルクリック
+②.解析したい動画ファイルを選択する。
+③.csvWrighterをクリックしてファイル名を適切なものにする
+④.実行する(スタートをクリックする)
+⑤.実行したら、cropをダブルクリックする。
+⑥.cropをダブルクリックすると以下の画面になります。
+<img width="264" height="187" alt="スクリーンショット 2026-04-15 181026" src="https://github.com/user-attachments/assets/872bca9d-c4be-42b1-b8fc-858fe54fc84d" />
+⑦.赤枠がマウスの箱内をきちんと覆えているように調節してください。
+⑧.調整したら、解析をやり直してください。
+⑨.終了
+
+
+
+
+
+
 
 
 
