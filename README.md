@@ -88,7 +88,7 @@ openfield.bonsaiを開くと以下の画像のようになります。
 ⑩.Rを開いたら以下の画面になります。\
 <img width="960" height="563" alt="スクリーンショット 2026-04-16 145955" src="https://github.com/user-attachments/assets/94d77e33-ba26-4eeb-9ac4-f431854b297d" />\
 ⑪.フォルダ構造を以下のようにしてください。
- c:-> R -> openField -> data.csv
+ c:-> R -> openField -> data.csv\
                      -> Analyzed
 
 
