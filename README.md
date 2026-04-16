@@ -81,6 +81,9 @@ openfield.bonsaiを開くと以下の画像のようになります。
 <img width="264" height="187" alt="スクリーンショット 2026-04-15 181026" src="https://github.com/user-attachments/assets/872bca9d-c4be-42b1-b8fc-858fe54fc84d" />\
 ⑦.赤枠がマウスの箱内をきちんと覆えているように調節してください。\
 ⑧.調整したら、解析をやり直してください。\
+  解析中は以下のような感じ\
+  <img width="960" height="561" alt="スクリーンショット 2026-04-15 181000" src="https://github.com/user-attachments/assets/e2f86a7c-7179-4ae9-b380-eecb598515b4" />
+
 ⑨.解析が終わったら、CSVを取り出してRを開いてください。\
 ⑩.
 
