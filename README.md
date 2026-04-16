@@ -88,8 +88,12 @@ openfield.bonsaiを開くと以下の画像のようになります。
 ⑩.Rを開いたら以下の画面になります。\
 <img width="960" height="563" alt="スクリーンショット 2026-04-16 145955" src="https://github.com/user-attachments/assets/94d77e33-ba26-4eeb-9ac4-f431854b297d" />\
 ⑪.フォルダ構造を以下のようにしてください。\
- c:-> R -> openField -> data.csv\
-                     -> Analyzed
+ c:)-> R -> openField -> Analyzed\
+⑫.openfieldフォルダの直下にbonsaiの解析結果を入れてください。\
+⑬.path <- setwd("D:/R/OpenField")  の部分をpath <- setwd("C:/R/OpenField")へ変更\
+　saveDirName <- c("D:/R/OpenField/Analyzed/")をsaveDirName <- c("C:/R/OpenField/Analyzed/")へ変更\
+⑭.パッケージをインストール\
+⑮.Ctrl + A とCtrl + Enterで実行
 
 
 
