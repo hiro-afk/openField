@@ -64,6 +64,8 @@ https://1drv.ms/f/c/e7c121b75c232fa5/IgA6dUCz6y6uQYxBbwza2QdpAekgxVjvcEVX6nDEsDc
 
 
 
+
+
 ### 手順⑥:実行手順
 まず初めに動画からマウスをトラッキングしてマウスの中心座標を求めます。この解析にはopenfield.bonsaiを使用します。\
 openfield.bonsaiを開くと以下の画像のようになります。
@@ -79,8 +81,8 @@ openfield.bonsaiを開くと以下の画像のようになります。
 <img width="264" height="187" alt="スクリーンショット 2026-04-15 181026" src="https://github.com/user-attachments/assets/872bca9d-c4be-42b1-b8fc-858fe54fc84d" />\
 ⑦.赤枠がマウスの箱内をきちんと覆えているように調節してください。\
 ⑧.調整したら、解析をやり直してください。\
-⑨.終了\
-
+⑨.解析が終わったら、CSVを取り出してRを開いてください。\
+⑩.
 
 
 
