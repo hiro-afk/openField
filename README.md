@@ -85,7 +85,9 @@ openfield.bonsaiを開くと以下の画像のようになります。
   <img width="960" height="561" alt="スクリーンショット 2026-04-15 181000" src="https://github.com/user-attachments/assets/e2f86a7c-7179-4ae9-b380-eecb598515b4" />
 
 ⑨.解析が終わったら、CSVを取り出してRを開いてください。\
-⑩.
+⑩.Rを開いたら以下の画面になります。\
+<img width="960" height="563" alt="スクリーンショット 2026-04-16 145955" src="https://github.com/user-attachments/assets/94d77e33-ba26-4eeb-9ac4-f431854b297d" />
+
 
 
 
